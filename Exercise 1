@@ -1,0 +1,15 @@
+Exercise#1 Question#1
+
+Use Cases:
+Verify user can access notes with valid credentials
+Verify user can't access notes with invalid credentials
+Verify user can access notes in mobile(ipad, windows, mac etc.) device separately
+Verify user can access notes in mobile(ipad, windows, mac etc.) device simultaneously
+Verify document sharing feature between users should not exist
+Verify user should only have access to his/her notes
+Verify modified/deleted notes is synced across devices
+
+
+Exercise#1 Question#2
+First I would do Smoke/Sanity testing by logging in with valid credentials and perform exploratory/ad-hoc testing to make sure that 
+app is testable before executing functional and end2end test cases
